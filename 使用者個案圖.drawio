@@ -49,20 +49,65 @@
             <mxPoint x="146" y="151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_R3BB7dawXil-FJ_AwLg-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-11">
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.027;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-11" target="_R3BB7dawXil-FJ_AwLg-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="355" y="200" as="sourcePoint" />
             <mxPoint x="280" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_R3BB7dawXil-FJ_AwLg-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.927;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-2">
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.927;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-2" target="_R3BB7dawXil-FJ_AwLg-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="160" as="sourcePoint" />
             <mxPoint x="280" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_R3BB7dawXil-FJ_AwLg-25" value="登錄" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="110" height="60" as="geometry" />
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-25" value="登入" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-26" value="&lt;div&gt;編輯事件&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-29" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-26" target="_R3BB7dawXil-FJ_AwLg-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="405" y="98.5" as="sourcePoint" />
+            <mxPoint x="300" y="141.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-30" value="&lt;div&gt;編輯事件時間&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-32" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-30" target="_R3BB7dawXil-FJ_AwLg-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="150" as="sourcePoint" />
+            <mxPoint x="240" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-33" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-34" target="_R3BB7dawXil-FJ_AwLg-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="690" y="300" as="sourcePoint" />
+            <mxPoint x="550" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-34" value="&lt;div&gt;編輯AI事件推薦時間&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-35" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.182;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-37" target="_R3BB7dawXil-FJ_AwLg-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="560" y="290" as="sourcePoint" />
+            <mxPoint x="510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-37" value="&lt;div&gt;編輯事件順序&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-38" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-39" target="_R3BB7dawXil-FJ_AwLg-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="535" y="420" as="sourcePoint" />
+            <mxPoint x="704" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_R3BB7dawXil-FJ_AwLg-39" value="編輯AI事件推薦時間" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="485" y="430" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
