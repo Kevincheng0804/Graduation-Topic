@@ -34,11 +34,8 @@
                         <mxPoint x="420" y="190" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_R3BB7dawXil-FJ_AwLg-9" target="_R3BB7dawXil-FJ_AwLg-11" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-9" value="新增推薦事件" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="370" width="110" height="60" as="geometry"/>
+                <mxCell id="_R3BB7dawXil-FJ_AwLg-9" value="叫AI推薦行程" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="360" width="110" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_R3BB7dawXil-FJ_AwLg-11" value="新增事件" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="140" y="240" width="110" height="60" as="geometry"/>
@@ -73,41 +70,38 @@
                         <mxPoint x="300" y="141.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-30" value="&lt;div&gt;編輯事件時間&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="600" y="110" width="110" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-32" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_R3BB7dawXil-FJ_AwLg-30" target="_R3BB7dawXil-FJ_AwLg-26" edge="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="410" y="150" as="sourcePoint"/>
-                        <mxPoint x="240" y="130" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-33" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_R3BB7dawXil-FJ_AwLg-34" target="_R3BB7dawXil-FJ_AwLg-30" edge="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="690" y="300" as="sourcePoint"/>
-                        <mxPoint x="550" y="303" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-34" value="&lt;div&gt;編輯AI事件推薦時間&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="660" y="300" width="110" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-35" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.182;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_R3BB7dawXil-FJ_AwLg-37" target="_R3BB7dawXil-FJ_AwLg-30" edge="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="560" y="290" as="sourcePoint"/>
-                        <mxPoint x="510" y="300" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-37" value="&lt;div&gt;編輯事件順序&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="480" y="290" width="110" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-38" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_R3BB7dawXil-FJ_AwLg-39" target="_R3BB7dawXil-FJ_AwLg-37" edge="1">
+                <mxCell id="_R3BB7dawXil-FJ_AwLg-38" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_R3BB7dawXil-FJ_AwLg-39" target="_R3BB7dawXil-FJ_AwLg-26" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="535" y="420" as="sourcePoint"/>
-                        <mxPoint x="704" y="171" as="targetPoint"/>
+                        <mxPoint x="535" y="350" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="_R3BB7dawXil-FJ_AwLg-39" value="編輯AI事件推薦順序" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="485" y="430" width="100" height="65" as="geometry"/>
+                <mxCell id="_R3BB7dawXil-FJ_AwLg-39" value="編輯自身的時間、順序" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="95" width="100" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_R3BB7dawXil-FJ_AwLg-9" target="_R3BB7dawXil-FJ_AwLg-11">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="240" y="390" as="sourcePoint"/>
+                        <mxPoint x="240" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="使用者新增自身行程" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="360" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="135" y="370" as="sourcePoint"/>
+                        <mxPoint x="200" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="Generalization" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=1.036;entryY=0.683;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="7" target="_R3BB7dawXil-FJ_AwLg-26">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="535" y="495" as="sourcePoint"/>
+                        <mxPoint x="510" y="215" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="AI編輯時間、順序" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="170" width="100" height="65" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
