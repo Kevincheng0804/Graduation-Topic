@@ -115,6 +115,42 @@
             <mxPoint x="460" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-14" value="新增行程" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-15" value="刪除推薦行程" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="430" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-16" value="修改推薦行程" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-17" value="Generalization" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;entryX=0.971;entryY=0.28;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="jXpW6EcGd3m8PzfnGfCC-14" target="8-9XDru2MBB9iXI8fwiX-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="360" as="sourcePoint" />
+            <mxPoint x="770" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-18" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="jXpW6EcGd3m8PzfnGfCC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-19" value="Generalization" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.929;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jXpW6EcGd3m8PzfnGfCC-16" target="8-9XDru2MBB9iXI8fwiX-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="345" as="sourcePoint" />
+            <mxPoint x="550" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-20" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="jXpW6EcGd3m8PzfnGfCC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-21" value="Generalization" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXpW6EcGd3m8PzfnGfCC-15" target="8-9XDru2MBB9iXI8fwiX-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="440" as="sourcePoint" />
+            <mxPoint x="550" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXpW6EcGd3m8PzfnGfCC-22" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="jXpW6EcGd3m8PzfnGfCC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
