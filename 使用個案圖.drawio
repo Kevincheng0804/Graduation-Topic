@@ -200,6 +200,9 @@
                 <mxCell id="10" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="9">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
+                <mxCell id="12" value="結束行程" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="152.5" y="560" width="130" height="50" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
