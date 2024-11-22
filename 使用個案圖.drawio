@@ -103,12 +103,6 @@
                         <mxPoint x="172.5" y="477.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="jXpW6EcGd3m8PzfnGfCC-13" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8-9XDru2MBB9iXI8fwiX-22" target="8-9XDru2MBB9iXI8fwiX-24" edge="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="590" y="320" as="sourcePoint"/>
-                        <mxPoint x="460" y="320" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="jXpW6EcGd3m8PzfnGfCC-14" value="新增行程" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="660" y="310" width="140" height="50" as="geometry"/>
                 </mxCell>
@@ -185,14 +179,26 @@
                         <mxPoint x="310" y="70" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8-9XDru2MBB9iXI8fwiX-24" target="5">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="627.23" y="300" as="sourcePoint"/>
-                        <mxPoint x="650" y="260" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="5" value="輸入固定行程" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
                     <mxGeometry x="640" y="240" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Generalization" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-9XDru2MBB9iXI8fwiX-22" target="8-9XDru2MBB9iXI8fwiX-24">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="654.06" y="301" as="sourcePoint"/>
+                        <mxPoint x="535" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Generalization" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;entryX=0.986;entryY=0.64;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="5" target="8-9XDru2MBB9iXI8fwiX-24">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="680" y="355" as="sourcePoint"/>
+                        <mxPoint x="560.94" y="414" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="9">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
