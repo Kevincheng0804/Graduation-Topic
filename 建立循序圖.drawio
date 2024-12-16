@@ -17,7 +17,7 @@
           <mxGeometry x="45" y="370" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5Vj64AKfql6XNIXNK41q-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-6" vertex="1">
-          <mxGeometry x="45" y="570" width="10" height="260" as="geometry" />
+          <mxGeometry x="45" y="580" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="-Wptts9aghAn9PEMAHKD-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;建立行程UI&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="680" y="20" width="100" height="1430" as="geometry" />
