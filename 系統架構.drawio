@@ -1,90 +1,111 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="HvSun0O0seoyiaE5DwOT">
-    <mxGraphModel dx="1231" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="u2ehLwDQk69W5QjlWle8-1" value="使用者介面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="70" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="u2ehLwDQk69W5QjlWle8-1" edge="1">
+        <mxCell id="u2ehLwDQk69W5QjlWle8-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="u2ehLwDQk69W5QjlWle8-1" edge="1" source="u2ehLwDQk69W5QjlWle8-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="160" as="sourcePoint" />
             <mxPoint x="350" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-3" value="手機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="150" width="90" height="30" as="geometry" />
+        <mxCell id="u2ehLwDQk69W5QjlWle8-3" value="手機(iOs)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262" y="140" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="u2ehLwDQk69W5QjlWle8-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="u2ehLwDQk69W5QjlWle8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="140" as="sourcePoint" />
             <mxPoint x="410" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-5" value="平板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="140" width="100" height="30" as="geometry" />
+        <mxCell id="u2ehLwDQk69W5QjlWle8-5" value="平板(iPadOs)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="417" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-6" value="排程系統(ios系統)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="200" width="180" height="50" as="geometry" />
+        <mxCell id="B--MVibhHcXo1dKhlhAr-2" value="排程系統" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="54" y="196" width="652" height="278" as="geometry" />
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="300" as="sourcePoint" />
-            <mxPoint x="340" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-8" value="管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="300" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="380" as="sourcePoint" />
-            <mxPoint x="270" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-10" value="帳戶" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="380" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="300" as="sourcePoint" />
-            <mxPoint x="440" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-14" value="排程系統操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="300" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-15" value="詢問chatgpt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="424" y="380" width="80" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="380" as="sourcePoint" />
-            <mxPoint x="510" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u2ehLwDQk69W5QjlWle8-15" target="u2ehLwDQk69W5QjlWle8-15" edge="1">
+        <UserObject label="管理" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-5">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="55" y="37" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="排程系統操作" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-10">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="352" y="37" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="B--MVibhHcXo1dKhlhAr-5" target="B--MVibhHcXo1dKhlhAr-12" parent="B--MVibhHcXo1dKhlhAr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="380" as="sourcePoint" />
-            <mxPoint x="540" y="330" as="targetPoint" />
+        <UserObject label="帳戶個資" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="13" y="137" width="91" height="47" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="B--MVibhHcXo1dKhlhAr-5" target="B--MVibhHcXo1dKhlhAr-14" parent="B--MVibhHcXo1dKhlhAr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="個人行程" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-14">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="118" y="137" width="91" height="47" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-17" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="B--MVibhHcXo1dKhlhAr-10" target="B--MVibhHcXo1dKhlhAr-18" parent="B--MVibhHcXo1dKhlhAr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="填入行程" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-18">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="228" y="137" width="81" height="46" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="B--MVibhHcXo1dKhlhAr-10" target="B--MVibhHcXo1dKhlhAr-20" parent="B--MVibhHcXo1dKhlhAr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="行程管理" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-20">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="315" y="137" width="86" height="46" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="B--MVibhHcXo1dKhlhAr-10" target="B--MVibhHcXo1dKhlhAr-27" parent="B--MVibhHcXo1dKhlhAr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="詢問chatGPT&amp;amp;生成推薦排程" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-27">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="407" y="137" width="88" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-28" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="B--MVibhHcXo1dKhlhAr-10" target="B--MVibhHcXo1dKhlhAr-29" parent="B--MVibhHcXo1dKhlhAr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="查看行程" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-29">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="500" y="137" width="86" height="46" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-30" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="B--MVibhHcXo1dKhlhAr-31" source="B--MVibhHcXo1dKhlhAr-29" parent="B--MVibhHcXo1dKhlhAr-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541" y="296" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-19" value="自動排程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="514" y="380" width="76" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.371;exitY=-0.037;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u2ehLwDQk69W5QjlWle8-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="370" as="sourcePoint" />
-            <mxPoint x="570" y="330" as="targetPoint" />
+        <UserObject label="日曆" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-31">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="452" y="223" width="86" height="46" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B--MVibhHcXo1dKhlhAr-32" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="B--MVibhHcXo1dKhlhAr-33" source="B--MVibhHcXo1dKhlhAr-29" parent="B--MVibhHcXo1dKhlhAr-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541" y="296" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-21" value="日程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="377.5" width="70" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="月曆" treeRoot="1" id="B--MVibhHcXo1dKhlhAr-33">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B--MVibhHcXo1dKhlhAr-2">
+            <mxGeometry x="550" y="223" width="86" height="46" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
