@@ -7,23 +7,14 @@
         <mxCell id="u2ehLwDQk69W5QjlWle8-1" value="使用者介面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="70" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="u2ehLwDQk69W5QjlWle8-1" edge="1" source="u2ehLwDQk69W5QjlWle8-3">
+        <mxCell id="u2ehLwDQk69W5QjlWle8-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="u2ehLwDQk69W5QjlWle8-1" edge="1" source="u2ehLwDQk69W5QjlWle8-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="160" as="sourcePoint" />
             <mxPoint x="350" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u2ehLwDQk69W5QjlWle8-3" value="手機(iOS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="140" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="u2ehLwDQk69W5QjlWle8-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="140" as="sourcePoint" />
-            <mxPoint x="410" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u2ehLwDQk69W5QjlWle8-5" value="平板(iPadOS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="417" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="345" y="133" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B--MVibhHcXo1dKhlhAr-2" value="排程系統" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="54" y="196" width="652" height="278" as="geometry" />
