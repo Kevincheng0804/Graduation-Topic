@@ -1,0 +1,934 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.1">
+  <diagram name="第 1 页" id="Ib4MrKTaxfKPcTtBlsf1">
+    <mxGraphModel dx="1252" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3CiGBD3D5NBtxb55UFpI-1" target="kQuqkb5a3J1qWm1FTjio-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1464" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;" parent="1" source="WqffzFQxJlZHQHWymnSO-15" target="WqffzFQxJlZHQHWymnSO-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="169" as="sourcePoint" />
+            <mxPoint x="1400" y="1431" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="420" />
+              <mxPoint x="1400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;繁忙疏於管理的人&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="98.57" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;:AC&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="930" y="20" width="100" height="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-6" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-6" vertex="1">
+          <mxGeometry x="45" y="375" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;:建立行程UI&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="680" y="20" width="100" height="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="-B4kHmwJO493I2sqWvYo-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="-Wptts9aghAn9PEMAHKD-8">
+          <mxGeometry x="45" y="760" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1.查看月曆(月份)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" target="-Wptts9aghAn9PEMAHKD-7" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="95.5" y="200" as="sourcePoint" />
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1460.909090909091" as="sourcePoint" />
+            <mxPoint x="94.78915704988549" y="179.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Opt&lt;/font&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="1" vertex="1">
+          <mxGeometry x="30" y="500" width="1010" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[選擇新增月曆或日曆行程]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="200" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Vj64AKfql6XNIXNK41q-25" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;alt&lt;/font&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="65" y="190" width="945" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vj64AKfql6XNIXNK41q-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[IF行程衝突]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="5Vj64AKfql6XNIXNK41q-25" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="110" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMpW3N6YFgBgAVFBIvfK-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[Else]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" parent="5Vj64AKfql6XNIXNK41q-25" vertex="1">
+          <mxGeometry y="250" width="880" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vj64AKfql6XNIXNK41q-8" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;" parent="5Vj64AKfql6XNIXNK41q-25" vertex="1">
+          <mxGeometry x="515" y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vj64AKfql6XNIXNK41q-9" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;維護日程&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;align=center;html=1;" parent="5Vj64AKfql6XNIXNK41q-8" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="69" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;endArrow=openThin;endFill=0;exitX=-0.002;exitY=0.853;exitDx=0;exitDy=0;exitPerimeter=0;" parent="5Vj64AKfql6XNIXNK41q-25" edge="1" source="5Vj64AKfql6XNIXNK41q-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="190" as="sourcePoint" />
+            <mxPoint x="234" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="515" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-46" value="14.2回到月曆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UT1tXQmTCpyHd9vQb1P1-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.0906" y="-4" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNtWfbowSEUpxUyWm9bE-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;13. 警示日程已經有行程&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1.005;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" parent="5Vj64AKfql6XNIXNK41q-25" edge="1">
+          <mxGeometry x="-0.001" width="160" relative="1" as="geometry">
+            <mxPoint x="879.9999999999995" y="99.99999999999997" as="sourcePoint" />
+            <mxPoint x="636.0499999999997" y="99.99999999999997" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNtWfbowSEUpxUyWm9bE-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;14.調整日程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=-0.015;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.001;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;" parent="5Vj64AKfql6XNIXNK41q-25" edge="1" target="5Vj64AKfql6XNIXNK41q-8" source="5Vj64AKfql6XNIXNK41q-25">
+          <mxGeometry x="-0.2653" y="10" width="160" relative="1" as="geometry">
+            <mxPoint y="140" as="sourcePoint" />
+            <mxPoint x="480" y="145" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-23" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;10.1.點擊建立行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="77" as="sourcePoint" />
+            <mxPoint x="285" y="77" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-27" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;12.輸入行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="-Wptts9aghAn9PEMAHKD-14" target="3CiGBD3D5NBtxb55UFpI-57" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="155" as="sourcePoint" />
+            <mxPoint x="695" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMpW3N6YFgBgAVFBIvfK-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;12.1建立行程&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B2.%E5%BB%BA%E7%AB%8B%E6%97%A5%E7%A8%8B()%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BlabelBackgroundColor%3Dnone%3BendArrow%3Dopen%3BendFill%3D0%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D5%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%22160%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22325%22%20y%3D%22590%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22445%22%20y%3D%22590%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="-Wptts9aghAn9PEMAHKD-14" source="3CiGBD3D5NBtxb55UFpI-57" target="5Vj64AKfql6XNIXNK41q-1" edge="1">
+          <mxGeometry x="0.0078" width="160" relative="1" as="geometry">
+            <mxPoint x="705" y="154.99999999999977" as="sourcePoint" />
+            <mxPoint x="835" y="165" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-32" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;11.1. 檢視行程輸入框&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1.001;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" parent="-Wptts9aghAn9PEMAHKD-14" edge="1">
+          <mxGeometry x="0.0227" width="160" relative="1" as="geometry">
+            <mxPoint x="695" y="120" as="sourcePoint" />
+            <mxPoint x="295" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-37" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;11.顯示建立行程框()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" edge="1">
+          <mxGeometry x="-0.0501" width="160" relative="1" as="geometry">
+            <mxPoint x="295.5" y="90" as="sourcePoint" />
+            <mxPoint x="705" y="89.99999999999977" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="695" y="150" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;10.返回當月月曆()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="60" as="sourcePoint" />
+            <mxPoint x="284.9999999999999" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;alt&lt;/font&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="60" y="635" width="920" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[IF行程衝突]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="qY41yHNiVDCCdi7UIPtB-5" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="110" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[Else]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" parent="qY41yHNiVDCCdi7UIPtB-5" vertex="1">
+          <mxGeometry y="160" width="890" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;22.調整日程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=-0.004;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qY41yHNiVDCCdi7UIPtB-5" target="qY41yHNiVDCCdi7UIPtB-9" edge="1">
+          <mxGeometry x="-0.2857" y="10" width="160" relative="1" as="geometry">
+            <mxPoint y="110" as="sourcePoint" />
+            <mxPoint x="490" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-9" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;" parent="qY41yHNiVDCCdi7UIPtB-5" vertex="1">
+          <mxGeometry x="570" y="90" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-10" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;維護日程&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;align=center;html=1;" parent="qY41yHNiVDCCdi7UIPtB-9" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="65" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;endArrow=openThin;endFill=0;" parent="qY41yHNiVDCCdi7UIPtB-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="149.99999999999977" as="sourcePoint" />
+            <mxPoint x="495" y="149.99999999999977" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="150" />
+              <mxPoint x="520" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-48" value="14.2回到日曆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UT1tXQmTCpyHd9vQb1P1-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.0906" y="-4" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;21. 警示日程已經有行程&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="qY41yHNiVDCCdi7UIPtB-5" edge="1">
+          <mxGeometry x="-0.001" width="160" relative="1" as="geometry">
+            <mxPoint x="885" y="45.00000000000023" as="sourcePoint" />
+            <mxPoint x="495" y="45.00000000000023" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="695" y="600" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;16.返回當月月曆()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="-Wptts9aghAn9PEMAHKD-14" target="qY41yHNiVDCCdi7UIPtB-16" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="565" as="sourcePoint" />
+            <mxPoint x="180" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;20.輸入行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" target="qY41yHNiVDCCdi7UIPtB-2" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="617.02" as="sourcePoint" />
+            <mxPoint x="545" y="617.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;19.5檢視新增行程輸入框()&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1.001;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" parent="-Wptts9aghAn9PEMAHKD-14" target="qY41yHNiVDCCdi7UIPtB-3" edge="1">
+          <mxGeometry x="-0.001" width="160" relative="1" as="geometry">
+            <mxPoint x="695" y="610" as="sourcePoint" />
+            <mxPoint x="409" y="610" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;19..顯示新增行程輸入框()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="600" as="sourcePoint" />
+            <mxPoint x="700" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;18.查看日程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="590" as="sourcePoint" />
+            <mxPoint x="545" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;18.5.點擊建立行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" target="qY41yHNiVDCCdi7UIPtB-3" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="55" y="600" as="sourcePoint" />
+            <mxPoint x="544" y="604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-55" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;17.點選要查看日期()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="591" as="sourcePoint" />
+            <mxPoint x="285" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="945" y="620" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;23. 顯示新增行程&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="-Wptts9aghAn9PEMAHKD-14" source="qY41yHNiVDCCdi7UIPtB-1" target="qY41yHNiVDCCdi7UIPtB-3" edge="1">
+          <mxGeometry x="-0.001" width="160" relative="1" as="geometry">
+            <mxPoint x="685" y="855" as="sourcePoint" />
+            <mxPoint x="140" y="855" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="545" y="590" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-Wptts9aghAn9PEMAHKD-14" target="qY41yHNiVDCCdi7UIPtB-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="750" as="sourcePoint" />
+            <mxPoint x="290" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="285" y="560" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;20.5.新增行程&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B2.%E5%BB%BA%E7%AB%8B%E6%97%A5%E7%A8%8B()%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BlabelBackgroundColor%3Dnone%3BendArrow%3Dopen%3BendFill%3D0%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D5%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%22160%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22325%22%20y%3D%22590%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22445%22%20y%3D%22590%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="-Wptts9aghAn9PEMAHKD-14" source="qY41yHNiVDCCdi7UIPtB-2" target="qY41yHNiVDCCdi7UIPtB-1" edge="1">
+          <mxGeometry x="0.0714" y="15" width="160" relative="1" as="geometry">
+            <mxPoint x="695" y="635" as="sourcePoint" />
+            <mxPoint x="835" y="635" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Vj64AKfql6XNIXNK41q-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="-Wptts9aghAn9PEMAHKD-14" vertex="1">
+          <mxGeometry x="945" y="160" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-1" value="&lt;u&gt;:&lt;/u&gt;時間管理台&lt;u&gt;UI&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-2" value="&lt;u&gt;:日程UI&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="315" y="360" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=openThin;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="209.5" as="targetPoint" />
+            <mxPoint x="325" y="209.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-53" value="1.1.讀取選取月曆(月份)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UT1tXQmTCpyHd9vQb1P1-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.1296" y="2" relative="1" as="geometry">
+            <mxPoint x="11" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Wptts9aghAn9PEMAHKD-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="315" y="200" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;2.顯示已有行程的日期(選取月份的日期)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" target="-Wptts9aghAn9PEMAHKD-23" edge="1">
+          <mxGeometry x="0.2011" width="160" relative="1" as="geometry">
+            <mxPoint x="315.5" y="230" as="sourcePoint" />
+            <mxPoint x="865" y="230" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;4. 用紅色標記已經有行程的日期&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;(選取月份日期)&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="-Wptts9aghAn9PEMAHKD-6" edge="1">
+          <mxGeometry x="-0.0023" width="160" relative="1" as="geometry">
+            <mxPoint x="560.55" y="280" as="sourcePoint" />
+            <mxPoint x="320" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="930" as="sourcePoint" />
+            <mxPoint x="579.5" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-27" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;8.顯示日程&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B5.%E6%9F%A5%E7%9C%8B%E6%97%A5%E7%A8%8B()%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BlabelBackgroundColor%3Dnone%3BendArrow%3Dopen%3BendFill%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%220.0043%22%20width%3D%22160%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22325%22%20y%3D%22380%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22580%22%20y%3D%22380%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;(選擇的日期的行程)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" target="kQuqkb5a3J1qWm1FTjio-35" edge="1">
+          <mxGeometry x="0.0043" width="160" relative="1" as="geometry">
+            <mxPoint x="580" y="400" as="sourcePoint" />
+            <mxPoint x="870" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-32" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;9.檢視行程(選擇日期的行程)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="kQuqkb5a3J1qWm1FTjio-35" edge="1">
+          <mxGeometry x="0.0017" width="160" relative="1" as="geometry">
+            <mxPoint x="869.5" y="460" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-33" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;7.查看日程行程(選擇的日期的行程)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="-Wptts9aghAn9PEMAHKD-12" target="kQuqkb5a3J1qWm1FTjio-34" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="380" as="sourcePoint" />
+            <mxPoint x="580" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="575" y="380" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-36" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="1" vertex="1">
+          <mxGeometry x="60" y="290" width="960" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-37" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[IF查看日程]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="kQuqkb5a3J1qWm1FTjio-36" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="185" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-23" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;6.點選要查看的日期&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B5.%E6%9F%A5%E7%9C%8B%E6%97%A5%E7%A8%8B()%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BlabelBackgroundColor%3Dnone%3BendArrow%3Dopen%3BendFill%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%220.0043%22%20width%3D%22160%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22325%22%20y%3D%22380%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22580%22%20y%3D%22380%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;(選擇日期)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="kQuqkb5a3J1qWm1FTjio-36" edge="1">
+          <mxGeometry x="0.0769" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="40" y="70" as="sourcePoint" />
+            <mxPoint x="255" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Vj64AKfql6XNIXNK41q-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qY41yHNiVDCCdi7UIPtB-16" target="kQuqkb5a3J1qWm1FTjio-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1100" as="sourcePoint" />
+            <mxPoint x="320" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQuqkb5a3J1qWm1FTjio-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="315" y="560" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="lNtWfbowSEUpxUyWm9bE-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;15. 顯示新增行程&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="1" source="5Vj64AKfql6XNIXNK41q-1" target="kQuqkb5a3J1qWm1FTjio-45" edge="1">
+          <mxGeometry x="-0.001" width="160" relative="1" as="geometry">
+            <mxPoint x="865" y="980" as="sourcePoint" />
+            <mxPoint x="350" y="980" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-20" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" target="FMpW3N6YFgBgAVFBIvfK-3" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="730" y="600" as="sourcePoint" />
+            <mxPoint x="870" y="600" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMpW3N6YFgBgAVFBIvfK-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="725" y="590" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;繁忙疏於管理的人&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="108.57" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;" parent="1" source="WqffzFQxJlZHQHWymnSO-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="1770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="1006" />
+              <mxPoint x="1401" y="1431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-15" value="使用者介面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="108.57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-18" value="顯示月曆" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1565" y="98.57" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-25" value="建立" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2030" y="98.57" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;exitX=0.5;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2064.5" y="168.57" as="sourcePoint" />
+            <mxPoint x="2065" y="1860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2065" y="1290" />
+              <mxPoint x="2065" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;" parent="1" source="WqffzFQxJlZHQHWymnSO-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1185" y="220" as="sourcePoint" />
+            <mxPoint x="1185" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-38" value="行程資料" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2420" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3CiGBD3D5NBtxb55UFpI-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2460" y="251.43" as="sourcePoint" />
+            <mxPoint x="2460" y="1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-40" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1.查看月曆()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" target="WqffzFQxJlZHQHWymnSO-41" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1190" y="235" as="sourcePoint" />
+            <mxPoint x="1400" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="230" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-43" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;2.顯示已有行程的日期()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-41" target="WqffzFQxJlZHQHWymnSO-44" edge="1">
+          <mxGeometry x="-0.0019" width="160" relative="1" as="geometry">
+            <mxPoint x="1420" y="260" as="sourcePoint" />
+            <mxPoint x="1600" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1480" y="280" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;entryX=0.428;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-18" target="WqffzFQxJlZHQHWymnSO-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="179" as="sourcePoint" />
+            <mxPoint x="1599.5" y="1440.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=openThin;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-44" target="WqffzFQxJlZHQHWymnSO-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2460" y="295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1680" y="295" />
+              <mxPoint x="1680" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-60" value="3.讀取當月行程()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WqffzFQxJlZHQHWymnSO-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.2427" y="-3" relative="1" as="geometry">
+            <mxPoint x="73" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="1595" y="270" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;" parent="1" source="WqffzFQxJlZHQHWymnSO-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="320" as="sourcePoint" />
+            <mxPoint x="1600" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1600" y="962" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-38" target="WqffzFQxJlZHQHWymnSO-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2460" y="190" as="sourcePoint" />
+            <mxPoint x="2460" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2460" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=openThin;endFill=0;strokeWidth=2;dashed=1;dashPattern=1 4;" parent="1" source="WqffzFQxJlZHQHWymnSO-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1605" y="350.0000000000001" as="targetPoint" />
+            <mxPoint x="2455.0000000000005" y="350.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1720" y="350" />
+              <mxPoint x="1720" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-72" value="4.:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WqffzFQxJlZHQHWymnSO-71" vertex="1" connectable="0">
+          <mxGeometry x="-0.7358" y="3" relative="1" as="geometry">
+            <mxPoint x="-343" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="2455" y="290" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;endArrow=openThin;endFill=0;dashed=1;dashPattern=1 4;strokeWidth=2;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-44" target="WqffzFQxJlZHQHWymnSO-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="365" as="targetPoint" />
+            <mxPoint x="1481.3793103448277" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-68" value="5.反紅已有行程()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WqffzFQxJlZHQHWymnSO-64" vertex="1" connectable="0">
+          <mxGeometry x="-0.0021" y="-1" relative="1" as="geometry">
+            <mxPoint x="-31" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;" parent="1" source="WqffzFQxJlZHQHWymnSO-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1815" y="1860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1815" y="1561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-69" value="顯示日程" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="98.57" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="440" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-77" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;alt&lt;/font&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="390" width="1350" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-78" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[IF查看日程]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="WqffzFQxJlZHQHWymnSO-77" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="185" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-84" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="WqffzFQxJlZHQHWymnSO-77" vertex="1">
+          <mxGeometry x="670" y="80" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-99" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;7.點選要查看的日期&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B5.%E6%9F%A5%E7%9C%8B%E6%97%A5%E7%A8%8B()%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BlabelBackgroundColor%3Dnone%3BendArrow%3Dopen%3BendFill%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%220.0043%22%20width%3D%22160%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22325%22%20y%3D%22380%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22580%22%20y%3D%22380%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="WqffzFQxJlZHQHWymnSO-77" target="WqffzFQxJlZHQHWymnSO-74" edge="1">
+          <mxGeometry x="0.12" y="-30" width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="60" as="sourcePoint" />
+            <mxPoint x="255" y="60" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=openThin;endFill=0;" parent="WqffzFQxJlZHQHWymnSO-77" source="WqffzFQxJlZHQHWymnSO-84" target="WqffzFQxJlZHQHWymnSO-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="110" />
+              <mxPoint x="1030" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-106" value="9.讀取點選日期行程()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WqffzFQxJlZHQHWymnSO-104" vertex="1" connectable="0">
+          <mxGeometry x="-0.1575" relative="1" as="geometry">
+            <mxPoint x="43" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;" parent="WqffzFQxJlZHQHWymnSO-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="180" as="sourcePoint" />
+            <mxPoint x="265" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="180" />
+              <mxPoint x="630" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-108" value="11.:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WqffzFQxJlZHQHWymnSO-88" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-76" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;8.顯示已有行程&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B5.%E6%9F%A5%E7%9C%8B%E6%97%A5%E7%A8%8B()%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BlabelBackgroundColor%3Dnone%3BendArrow%3Dopen%3BendFill%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%220.0043%22%20width%3D%22160%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22325%22%20y%3D%22380%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22580%22%20y%3D%22380%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-74" target="WqffzFQxJlZHQHWymnSO-84" edge="1">
+          <mxGeometry x="0.008" width="160" relative="1" as="geometry">
+            <mxPoint x="1405" y="480" as="sourcePoint" />
+            <mxPoint x="1595" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-53" target="WqffzFQxJlZHQHWymnSO-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2460" y="360" as="sourcePoint" />
+            <mxPoint x="2459.5" y="1442" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2460" y="430" />
+              <mxPoint x="2460" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;dashPattern=1 4;strokeWidth=2;endArrow=openThin;endFill=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-101" target="WqffzFQxJlZHQHWymnSO-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2290" y="550" />
+              <mxPoint x="2290" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-107" value="10.:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WqffzFQxJlZHQHWymnSO-105" vertex="1" connectable="0">
+          <mxGeometry x="0.0787" y="-2" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqffzFQxJlZHQHWymnSO-101" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="2455" y="460" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Opt&lt;/font&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="690" width="1370" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[選擇新增月曆或日曆行程]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="200" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;alt&lt;/font&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="210" y="270" width="930" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[IF行程衝突]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="UT1tXQmTCpyHd9vQb1P1-3" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="110" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[Else]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" parent="UT1tXQmTCpyHd9vQb1P1-3" vertex="1">
+          <mxGeometry x="-10" y="110" width="940" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;" parent="UT1tXQmTCpyHd9vQb1P1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="50" as="sourcePoint" />
+            <mxPoint x="50" y="50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-10" value="19.提示已有行程:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3CiGBD3D5NBtxb55UFpI-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;" parent="UT1tXQmTCpyHd9vQb1P1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="200" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-25" value="20.顯示行程:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3CiGBD3D5NBtxb55UFpI-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;" parent="UT1tXQmTCpyHd9vQb1P1-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="sourcePoint" />
+            <mxPoint x="50" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-17" value="20.:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bKcssV3cFCVjzT9kU9kd-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-3" vertex="1">
+          <mxGeometry x="240" y="200" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;12.返回月曆()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="80.00000000000003" as="sourcePoint" />
+            <mxPoint x="260" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;13.點擊建立行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="110" as="sourcePoint" />
+            <mxPoint x="260" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;14.輸入行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="44.2" y="170" as="sourcePoint" />
+            <mxPoint x="255" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="255" y="80" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="920" y="180" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;21.返回月曆()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="45" y="600" as="sourcePoint" />
+            <mxPoint x="255" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="255" y="600" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qY41yHNiVDCCdi7UIPtB-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;22.點選要查看日期()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="40" y="630" as="sourcePoint" />
+            <mxPoint x="255" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-59" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;15.建立行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" target="3CiGBD3D5NBtxb55UFpI-20" edge="1">
+          <mxGeometry x="0.0015" width="160" relative="1" as="geometry">
+            <mxPoint x="255" y="180" as="sourcePoint" />
+            <mxPoint x="465.79999999999995" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="255" y="170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-71" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="1136" y="290" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;alt&lt;/font&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="210" y="800" width="930" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[IF行程衝突]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;" parent="bKcssV3cFCVjzT9kU9kd-1" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="110" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;[Else]&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" parent="bKcssV3cFCVjzT9kU9kd-1" vertex="1">
+          <mxGeometry x="-10" y="110" width="940" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;" parent="bKcssV3cFCVjzT9kU9kd-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="50" as="sourcePoint" />
+            <mxPoint x="50" y="50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-5" value="28.提示已有行程:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bKcssV3cFCVjzT9kU9kd-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;" parent="bKcssV3cFCVjzT9kU9kd-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="200" as="sourcePoint" />
+            <mxPoint x="470" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-7" value="29.顯示行程:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bKcssV3cFCVjzT9kU9kd-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;" parent="bKcssV3cFCVjzT9kU9kd-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="sourcePoint" />
+            <mxPoint x="50" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-20" value="30.:" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bKcssV3cFCVjzT9kU9kd-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="bKcssV3cFCVjzT9kU9kd-1" vertex="1">
+          <mxGeometry x="460" y="200" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;25.新增行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" target="1zQFUOyu6b2vgqKs0yba-8" edge="1">
+          <mxGeometry x="-0.05" width="160" relative="1" as="geometry">
+            <mxPoint x="920" y="739.2" as="sourcePoint" />
+            <mxPoint x="1120" y="739.2" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="920" y="710" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;24.建立行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" target="bKcssV3cFCVjzT9kU9kd-9" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="255" y="710" as="sourcePoint" />
+            <mxPoint x="465.79999999999995" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="255" y="700" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;exitX=0.4;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1316" y="819.9999999999998" as="sourcePoint" />
+            <mxPoint x="1140" y="821" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-13" value="27.()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bKcssV3cFCVjzT9kU9kd-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="1136" y="820" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="1315" y="750" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bKcssV3cFCVjzT9kU9kd-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;23.輸入行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" target="bKcssV3cFCVjzT9kU9kd-11" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint y="700" as="sourcePoint" />
+            <mxPoint x="210.79999999999995" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;dashed=1;dashPattern=1 4;endArrow=openThin;endFill=0;exitX=0.1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="290" as="sourcePoint" />
+            <mxPoint x="1145" y="295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1315" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-7" value="18.()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1zQFUOyu6b2vgqKs0yba-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="UT1tXQmTCpyHd9vQb1P1-1" vertex="1">
+          <mxGeometry x="1136" y="740" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-9" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="UT1tXQmTCpyHd9vQb1P1-1" source="1zQFUOyu6b2vgqKs0yba-8" edge="1">
+          <mxGeometry x="-0.05" width="160" relative="1" as="geometry">
+            <mxPoint x="1109" y="750" as="sourcePoint" />
+            <mxPoint x="1315" y="755" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-10" value="26.查詢比對資料()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1zQFUOyu6b2vgqKs0yba-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.141" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-50" value="&lt;u&gt;:萬年曆API(套件)&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UT1tXQmTCpyHd9vQb1P1-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="UT1tXQmTCpyHd9vQb1P1-50" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.5" y="1464" as="sourcePoint" />
+            <mxPoint x="449.5" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="3CiGBD3D5NBtxb55UFpI-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1464" as="sourcePoint" />
+            <mxPoint x="320" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="315" y="230" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-65" value="比對" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2240" y="98.57" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;exitX=0.5;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280.5" y="180" as="sourcePoint" />
+            <mxPoint x="2280" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2280.5" y="1289" />
+              <mxPoint x="2280.5" y="1289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WqffzFQxJlZHQHWymnSO-101" target="3CiGBD3D5NBtxb55UFpI-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2460" y="570" as="sourcePoint" />
+            <mxPoint x="2459.5" y="1442" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2460" y="850" />
+              <mxPoint x="2460" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CiGBD3D5NBtxb55UFpI-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="2455" y="900" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="2276" y="880" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;16.新增行程()&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="3CiGBD3D5NBtxb55UFpI-20" target="1zQFUOyu6b2vgqKs0yba-1" edge="1">
+          <mxGeometry x="-0.05" width="160" relative="1" as="geometry">
+            <mxPoint x="2070" y="889.31" as="sourcePoint" />
+            <mxPoint x="2239" y="889.31" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-2" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="1zQFUOyu6b2vgqKs0yba-1" target="3CiGBD3D5NBtxb55UFpI-21" edge="1">
+          <mxGeometry x="-0.05" width="160" relative="1" as="geometry">
+            <mxPoint x="2249" y="900" as="sourcePoint" />
+            <mxPoint x="2455" y="900" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zQFUOyu6b2vgqKs0yba-4" value="17.查詢比對資料()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1zQFUOyu6b2vgqKs0yba-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.141" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hq1va6G4efkuwp_3_y90-1" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" target="-Wptts9aghAn9PEMAHKD-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hq1va6G4efkuwp_3_y90-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="445" y="210" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-B4kHmwJO493I2sqWvYo-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1473.6363525390625" as="sourcePoint" />
+            <mxPoint x="580" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
