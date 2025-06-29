@@ -7,7 +7,7 @@ def schedule_tasks(Ts, Te, durations):
 
     # 假設成本矩陣C為每個任務對應24小時預設成本（實務上你可以自行擴充/自訂）
     base_cost = np.array([
-        [2, 4, 3, 1, 5, 2, 4, 3, 1, 5, 2, 4, 3, 1, 5, 2, 4, 3, 1, 5, 2, 4, 3, 1],
+        [6, 4, 3, 1, 5, 2, 4, 3, 1, 5, 2, 4, 3, 1, 5, 2, 4, 3, 1, 5, 2, 4, 3, 1],
         [3, 1, 2, 4, 3, 3, 1, 2, 4, 3, 3, 1, 2, 4, 3, 3, 1, 2, 4, 3, 3, 1, 2, 4],
         [4, 3, 1, 2, 5, 4, 3, 1, 2, 5, 4, 3, 1, 2, 5, 4, 3, 1, 2, 5, 4, 3, 1, 2]
     ])
@@ -68,12 +68,17 @@ def schedule_tasks(Ts, Te, durations):
                 c.append(total_cost)
     c = np.array(c)
 
+    A_eq = np.array(A_eq)
+    b_eq = np.array(b_eq)
+    A_ub = np.array(A_ub)
+    b_ub = np.array(b_ub)
+
     # MILP 求解
     res = milp(
         c=c,
         constraints=[
-            LinearConstraint(A_eq, b_eq, b_eq),
-            LinearConstraint(A_ub, [-np.inf]*len(b_ub), b_ub)
+            LinearConstraint(A_eq, b_eq, b_eq),  # type: ignore
+            LinearConstraint(A_ub, np.full(len(b_ub), -np.inf), b_ub)  # type: ignore
         ],
         bounds=bounds,
         integrality=integrality
