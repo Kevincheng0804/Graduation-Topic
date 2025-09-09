@@ -91,7 +91,7 @@ def get_tasks_from_firebase(date_str: str, Ts: str, Te: str):
     # 拆解日期
     year, month, day = date_str.split("-")
     tasks_ref = fs_db.collection("Tasks").document("uid") \
-                    .collection("task_list").document(f"{year}-{month}-{day}") \
+                    .collection("task_list").document("year-month-day") \
                     .collection("tasks")
 
     docs = tasks_ref.stream()
