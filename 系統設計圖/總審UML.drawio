@@ -14,7 +14,7 @@
           <mxGeometry x="350" y="390" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BpBgdT_9WnpJ_HFqouNj-4" value="維護日程" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BpBgdT_9WnpJ_HFqouNj-5" value="資訊管理系統" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="80" width="30" height="60" as="geometry" />
