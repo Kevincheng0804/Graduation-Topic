@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="28.2.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="28.2.5" pages="2">
   <diagram name="使用個案圖" id="aWD1JoPhpmEXVxEqfmJ2">
     <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,620 @@
             <mxPoint x="489" y="410" as="sourcePoint" />
             <mxPoint x="540" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sC0VhhwQG4oBtCX9l1pJ" name="活動圖">
+    <mxGraphModel dx="925" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1208.2" y="834.6" as="targetPoint" />
+            <mxPoint x="1209" y="781" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-2" value="是否新增行程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-1">
+          <mxGeometry x="-0.3248" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209.0526315789475" y="441" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-7" target="v_AKQ_FUPBTeSISHDxFn-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1269" y="1541.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1399" y="841" />
+              <mxPoint x="1399" y="1630" />
+              <mxPoint x="1269" y="1630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-5">
+          <mxGeometry x="-0.0565" y="-1" relative="1" as="geometry">
+            <mxPoint x="-69" y="-307" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-7" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="831" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="1050" as="targetPoint" />
+            <mxPoint x="1209" y="1003" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-9" value="是否生成推薦排程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-8">
+          <mxGeometry x="-0.0121" y="-2" relative="1" as="geometry">
+            <mxPoint x="52" y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-39" target="v_AKQ_FUPBTeSISHDxFn-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1379" y="1002" />
+              <mxPoint x="1379" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-11" value="建立行程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="902" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-12" value="查看推薦排程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="1185" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-16" target="v_AKQ_FUPBTeSISHDxFn-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="1195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-16" target="v_AKQ_FUPBTeSISHDxFn-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1269" y="1145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1329" y="1145" />
+              <mxPoint x="1329" y="1517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-15" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-14">
+          <mxGeometry x="-0.0565" y="-1" relative="1" as="geometry">
+            <mxPoint x="-39" y="-101" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-16" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="1135" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-12" target="v_AKQ_FUPBTeSISHDxFn-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="1275" as="targetPoint" />
+            <mxPoint x="1339" y="1255" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-18" value="是否接受推薦排程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-17">
+          <mxGeometry x="-0.0121" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-22" target="v_AKQ_FUPBTeSISHDxFn-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-22" target="v_AKQ_FUPBTeSISHDxFn-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1269" y="1285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1119" y="1285" />
+              <mxPoint x="1119" y="1145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-20">
+          <mxGeometry x="-0.0565" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-22" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="1275" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-24" target="v_AKQ_FUPBTeSISHDxFn-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="1405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-24" value="維護日程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="1325" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-26" target="v_AKQ_FUPBTeSISHDxFn-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-26" value="執行動態排程" style="whiteSpace=wrap;html=1;dashed=0;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="1490" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-28" target="v_AKQ_FUPBTeSISHDxFn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-28" value="使用者回饋" style="whiteSpace=wrap;html=1;dashed=0;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="1608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-29" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="1194" y="1718" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-32" target="v_AKQ_FUPBTeSISHDxFn-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-31" value="是否修改個性化資料" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-30">
+          <mxGeometry x="0.1517" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-32" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1569" y="301" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-34" target="v_AKQ_FUPBTeSISHDxFn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-34" value="修改個性化資料" style="whiteSpace=wrap;html=1;dashed=0;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1529" y="441" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-37" target="v_AKQ_FUPBTeSISHDxFn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-37" target="v_AKQ_FUPBTeSISHDxFn-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1688.9999999999998" y="541" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1689" y="401" />
+              <mxPoint x="1689" y="546" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-37" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1579" y="391" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-38" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="1574" y="531" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-39" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="992" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-11" target="v_AKQ_FUPBTeSISHDxFn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-41" value="是否行程衝突?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1209" y="972.0028571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1309" y="755" as="geometry">
+            <mxPoint x="2" y="260" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-44" target="v_AKQ_FUPBTeSISHDxFn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-44" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="1415" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-45" value="是否建立其他排程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1209" y="1395" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-44" target="v_AKQ_FUPBTeSISHDxFn-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1089" y="1425" />
+              <mxPoint x="1089" y="922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-47" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1130" y="1233.3333333333333" as="geometry">
+            <mxPoint x="26" y="189" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-49" target="v_AKQ_FUPBTeSISHDxFn-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-49" value="登入" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1219" y="483" as="sourcePoint" />
+            <mxPoint x="1459" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1309" y="483" />
+              <mxPoint x="1309" y="762" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-52" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-51">
+          <mxGeometry x="0.0106" y="5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-53" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="474" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-54" value="是否要登入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="447.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-56" target="v_AKQ_FUPBTeSISHDxFn-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-56" value="註冊" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="941" y="635" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-57" value="是否已註冊" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="590" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-61" target="v_AKQ_FUPBTeSISHDxFn-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-59" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-58">
+          <mxGeometry x="0.0048" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-61" target="v_AKQ_FUPBTeSISHDxFn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-61" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-62" value="進入單日日程表" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-64" target="v_AKQ_FUPBTeSISHDxFn-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-64" value="填寫個性化問卷" style="whiteSpace=wrap;html=1;dashed=0;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="941" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-65" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1299" y="498" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-66" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="628" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-67" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="301" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="451" as="targetPoint" />
+            <mxPoint x="1209" y="341" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-69" value="點擊日程表" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="391" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-71" target="v_AKQ_FUPBTeSISHDxFn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-71" value="預覽建立日程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="1050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-72" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1209" y="1018" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-73" value="使用者角度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1229" y="306" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-74" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="1448" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557.2" y="823.6" as="targetPoint" />
+            <mxPoint x="558" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-76" value="是否新增行程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-75">
+          <mxGeometry x="-0.3248" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.0526315789475" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="889" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-81" target="v_AKQ_FUPBTeSISHDxFn-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618" y="1530.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="748" y="830" />
+              <mxPoint x="748" y="1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-80" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-79">
+          <mxGeometry x="-0.0565" y="-1" relative="1" as="geometry">
+            <mxPoint x="-69" y="-307" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-81" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="548" y="820" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="1039" as="targetPoint" />
+            <mxPoint x="558" y="992" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-83" value="是否生成推薦排程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-82">
+          <mxGeometry x="-0.0121" y="-2" relative="1" as="geometry">
+            <mxPoint x="52" y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-104" target="v_AKQ_FUPBTeSISHDxFn-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="728" y="991" />
+              <mxPoint x="728" y="1339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-85" value="建立行程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="498" y="891" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-86" value="查看推薦排程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1174" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-87" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-90" target="v_AKQ_FUPBTeSISHDxFn-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="1184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-90" target="v_AKQ_FUPBTeSISHDxFn-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618" y="1134" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="678" y="1134" />
+              <mxPoint x="678" y="1537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-89" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-88">
+          <mxGeometry x="-0.0565" y="-1" relative="1" as="geometry">
+            <mxPoint x="-39" y="-101" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-90" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="548" y="1124" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-86" target="v_AKQ_FUPBTeSISHDxFn-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="1264" as="targetPoint" />
+            <mxPoint x="688" y="1244" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-92" value="是否接受推薦排程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-91">
+          <mxGeometry x="-0.0121" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-96" target="v_AKQ_FUPBTeSISHDxFn-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="1314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-96" target="v_AKQ_FUPBTeSISHDxFn-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618" y="1274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="468" y="1274" />
+              <mxPoint x="468" y="1134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-95" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-94">
+          <mxGeometry x="-0.0565" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-96" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="548" y="1264" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-98" target="v_AKQ_FUPBTeSISHDxFn-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="1394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-98" value="維護日程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1314" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-100" target="v_AKQ_FUPBTeSISHDxFn-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-100" value="執行動態排程" style="whiteSpace=wrap;html=1;dashed=0;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1510" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-102" target="v_AKQ_FUPBTeSISHDxFn-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-102" value="使用者回饋" style="whiteSpace=wrap;html=1;dashed=0;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-103" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="543" y="1707" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-104" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="548" y="981" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-85" target="v_AKQ_FUPBTeSISHDxFn-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-106" value="是否行程衝突?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="558" y="961.0028571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-107" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="658" y="744" as="geometry">
+            <mxPoint x="2" y="260" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-109" target="v_AKQ_FUPBTeSISHDxFn-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557.9599999999998" y="1448.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-109" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="548" y="1404" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-110" value="是否建立其他排程?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="558" y="1384" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-109" target="v_AKQ_FUPBTeSISHDxFn-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438" y="1414" />
+              <mxPoint x="438" y="911" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-112" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="479" y="1222.3333333333333" as="geometry">
+            <mxPoint x="26" y="189" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-114" target="v_AKQ_FUPBTeSISHDxFn-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-114" value="客戶登入" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="498" y="529" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568" y="472" as="sourcePoint" />
+            <mxPoint x="808" y="759" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="658" y="472" />
+              <mxPoint x="658" y="751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-117" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-116">
+          <mxGeometry x="0.0106" y="5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-118" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="548" y="463" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-119" value="是否要登入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="548" y="436.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-121" target="v_AKQ_FUPBTeSISHDxFn-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-121" value="註冊" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="624" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-122" value="是否已註冊" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="548" y="579" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-126" target="v_AKQ_FUPBTeSISHDxFn-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-124" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_AKQ_FUPBTeSISHDxFn-123">
+          <mxGeometry x="0.0048" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-126" target="v_AKQ_FUPBTeSISHDxFn-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-126" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="548" y="639" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-127" value="進入單日日程表" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="498" y="719" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-129" target="v_AKQ_FUPBTeSISHDxFn-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-129" value="填寫個性化問卷" style="whiteSpace=wrap;html=1;dashed=0;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="290" y="529" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-130" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="648" y="487" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-131" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="448" y="617" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-132" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="v_AKQ_FUPBTeSISHDxFn-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="440" as="targetPoint" />
+            <mxPoint x="558" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-134" value="點擊日程表" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="498" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-136" target="v_AKQ_FUPBTeSISHDxFn-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-136" value="預覽建立日程" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1039" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-137" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="558" y="1007" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-138" value="系統" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="573" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-140" target="v_AKQ_FUPBTeSISHDxFn-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-140" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="549" y="1455" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-141" value="偵測動態排程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468" y="1424" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-142" value="有開" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518" y="1475" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v_AKQ_FUPBTeSISHDxFn-140" target="v_AKQ_FUPBTeSISHDxFn-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="439" y="1465" />
+              <mxPoint x="439" y="1657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_AKQ_FUPBTeSISHDxFn-144" value="沒開" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1458" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
