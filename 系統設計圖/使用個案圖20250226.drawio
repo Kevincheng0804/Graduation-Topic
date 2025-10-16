@@ -2990,7 +2990,7 @@
           <mxGeometry x="810" y="80" width="75" height="1380" as="geometry" />
         </mxCell>
         <mxCell id="Vf9vHbjv0eGLH59mn8le-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zTLkWxcmFFAY8sEIlTVo-1">
-          <mxGeometry x="32.5" y="760" width="10" height="110" as="geometry" />
+          <mxGeometry x="32.5" y="760" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zTLkWxcmFFAY8sEIlTVo-3" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3052,7 +3052,7 @@
         <mxCell id="Vf9vHbjv0eGLH59mn8le-14" value="14.回傳已有行程()" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="885" y="870" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vf9vHbjv0eGLH59mn8le-15" value="" style="endArrow=open;html=1;rounded=0;endFill=0;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="Vf9vHbjv0eGLH59mn8le-15" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="855" y="950.31" as="sourcePoint" />
             <mxPoint x="250" y="950" as="targetPoint" />
@@ -3061,7 +3061,7 @@
         <mxCell id="Vf9vHbjv0eGLH59mn8le-16" value="15.顯示排序好的日程()" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="920" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vf9vHbjv0eGLH59mn8le-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="Vf9vHbjv0eGLH59mn8le-17">
+        <mxCell id="Vf9vHbjv0eGLH59mn8le-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="Vf9vHbjv0eGLH59mn8le-21" target="Vf9vHbjv0eGLH59mn8le-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="245" y="1440" as="sourcePoint" />
             <mxPoint x="244.66" y="120" as="targetPoint" />
@@ -3069,6 +3069,24 @@
         </mxCell>
         <mxCell id="Vf9vHbjv0eGLH59mn8le-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="240" y="950" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf9vHbjv0eGLH59mn8le-19" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="1040.31" as="sourcePoint" />
+            <mxPoint x="240" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vf9vHbjv0eGLH59mn8le-20" value="16.切換頁面()" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1010" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf9vHbjv0eGLH59mn8le-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="Vf9vHbjv0eGLH59mn8le-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="1440" as="sourcePoint" />
+            <mxPoint x="245" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vf9vHbjv0eGLH59mn8le-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
