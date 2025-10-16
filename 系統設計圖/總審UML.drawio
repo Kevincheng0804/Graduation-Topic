@@ -670,9 +670,6 @@
         <mxCell id="S0PofJp22UinDROmdSEp-8" value="點擊日程表" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2170" y="72.86000000000001" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S0PofJp22UinDROmdSEp-9" value="手動輸入形成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2261" y="-17.139999999999986" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="S0PofJp22UinDROmdSEp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S0PofJp22UinDROmdSEp-11" target="S0PofJp22UinDROmdSEp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
