@@ -261,11 +261,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qw9DjA1R6BYxPeDDXnf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qP7ExCdyGuimFHEiLEe1-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2597" y="905" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qP7ExCdyGuimFHEiLEe1-8" value="分析八大領域智能" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2537" y="935" width="120" height="50" as="geometry" />
         </mxCell>
