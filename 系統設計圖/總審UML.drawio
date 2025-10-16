@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sC0VhhwQG4oBtCX9l1pJ" name="活動圖">
-    <mxGraphModel dx="786" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,6 +758,14 @@
         <mxCell id="edHOuH9pQI8DCnQ2RtDd-5" value="輸入任務名稱" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2170" y="725" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="edHOuH9pQI8DCnQ2RtDd-7" target="edHOuH9pQI8DCnQ2RtDd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-18" value="是否有其他任務" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="edHOuH9pQI8DCnQ2RtDd-16">
+          <mxGeometry x="-0.0877" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="edHOuH9pQI8DCnQ2RtDd-7" value="輸入任務時長" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2170" y="855" width="120" height="50" as="geometry" />
         </mxCell>
@@ -771,6 +779,20 @@
         </mxCell>
         <mxCell id="edHOuH9pQI8DCnQ2RtDd-10" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2010" y="962" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="edHOuH9pQI8DCnQ2RtDd-15" target="edHOuH9pQI8DCnQ2RtDd-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2130" y="972" />
+              <mxPoint x="2130" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-15" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="962" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AI&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="508" width="520" height="542" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
