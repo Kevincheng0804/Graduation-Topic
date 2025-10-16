@@ -732,8 +732,14 @@
         <mxCell id="S0PofJp22UinDROmdSEp-33" value="智能推薦行程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2470" y="531" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="edHOuH9pQI8DCnQ2RtDd-1" value="輸入任務時間" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="edHOuH9pQI8DCnQ2RtDd-1" target="edHOuH9pQI8DCnQ2RtDd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-1" value="輸入任務開始時間" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1960" y="725" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="edHOuH9pQI8DCnQ2RtDd-3" value="輸入任務結束時間" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="855" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
