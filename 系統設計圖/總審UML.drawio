@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="28.2.7" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="9">
   <diagram name="使用個案圖" id="aWD1JoPhpmEXVxEqfmJ2">
     <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2007,6 +2007,158 @@
         </mxCell>
         <mxCell id="VWCLV4XuQLq1e63IFSD3-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="265" y="860" width="10" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DhogGgv5i_Y5MjLzXt2p" name="類別圖">
+    <mxGraphModel dx="1248" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-1" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;時間管理台&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;UI&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-2" value="+ 當月月份&lt;div&gt;+ 本日日期&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-1">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-1">
+          <mxGeometry y="90" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-4" value="&lt;div&gt;+ 瀏覽時間管理台UI()&lt;/div&gt;+ 切換月份()&lt;div&gt;+ 點選日期()&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 顯示當月月份()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ 標示本日日期()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-1">
+          <mxGeometry y="110" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-9" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;日程UI&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-10" value="+ 被選擇的日期&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-9">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-9">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-12" value="+ 選擇日期()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-9">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-13" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;建立行程UI&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-14" value="&lt;div&gt;+ 行程內容&lt;/div&gt;&lt;div&gt;+ 開始時間&lt;/div&gt;&lt;div&gt;+ 結束時間&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-13">
+          <mxGeometry y="26" width="160" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-13">
+          <mxGeometry y="150" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-16" value="+ 瀏覽建立行程UI()&lt;div&gt;+ 儲存行程()&lt;/div&gt;&lt;div&gt;+ 維護行程()&lt;/div&gt;&lt;div&gt;+ 取消建立行程()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-13">
+          <mxGeometry y="158" width="160" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-17" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;八大智能分辨API&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="410" width="160" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-17">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-19" value="+ 顯示日曆()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-17">
+          <mxGeometry y="34" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-20" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;請求&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="260" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-20">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-22" value="&lt;div&gt;+ 顯示當日日程()&lt;/div&gt;&lt;div&gt;+ 提醒功能()&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-20">
+          <mxGeometry y="34" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-23" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;整數規劃&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="770" width="160" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-23">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-25" value="+ 警示行程衝突()&lt;div&gt;+ 比對&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;行程清單()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-23">
+          <mxGeometry y="34" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-26" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;行程資料&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="420" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-27" value="+&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;行程名稱&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 開始時間&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 結束時間&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 地點&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-26">
+          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-26">
+          <mxGeometry y="110" width="160" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-29" value="+ 維護行程()&lt;div&gt;+ 清除過期行程()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-26">
+          <mxGeometry y="158" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-30" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;建立&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="604" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-31" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-30">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hoL5aiDn9RFrbfBE8kIw-32" value="&lt;div&gt;+&amp;nbsp;輸入行程名稱()&lt;div&gt;+ 填入時間()&lt;/div&gt;&lt;div&gt;+&amp;nbsp;儲存行程()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hoL5aiDn9RFrbfBE8kIw-30">
+          <mxGeometry y="34" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NrKWDydxswNKK5ZehE8-1" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;建立固定行程UI&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="844" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1NrKWDydxswNKK5ZehE8-2" value="&lt;div&gt;+ 行程內容&lt;/div&gt;&lt;div&gt;+ 開始時間&lt;/div&gt;&lt;div&gt;+ 結束時間&lt;/div&gt;&lt;div&gt;+ 行程優先度&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1NrKWDydxswNKK5ZehE8-1">
+          <mxGeometry y="26" width="160" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="1NrKWDydxswNKK5ZehE8-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1NrKWDydxswNKK5ZehE8-1">
+          <mxGeometry y="150" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1NrKWDydxswNKK5ZehE8-4" value="+ 瀏覽建立行程UI()&lt;div&gt;+ 儲存行程()&lt;/div&gt;&lt;div&gt;+ 維護行程()&lt;/div&gt;&lt;div&gt;+ 取消建立行程()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1NrKWDydxswNKK5ZehE8-1">
+          <mxGeometry y="158" width="160" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="_sTTHE-5ZqZUKlEqCmoZ-1" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;八大致能疲勞度矩陣資料&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="666" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="_sTTHE-5ZqZUKlEqCmoZ-2" value="+&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;行程名稱&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 開始時間&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 結束時間&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 地點&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_sTTHE-5ZqZUKlEqCmoZ-1">
+          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="_sTTHE-5ZqZUKlEqCmoZ-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="_sTTHE-5ZqZUKlEqCmoZ-1">
+          <mxGeometry y="110" width="160" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_sTTHE-5ZqZUKlEqCmoZ-4" value="+ 維護行程()&lt;div&gt;+ 清除過期行程()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_sTTHE-5ZqZUKlEqCmoZ-1">
+          <mxGeometry y="158" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZz0zekjaiB-zJ9JQgs-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="hoL5aiDn9RFrbfBE8kIw-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="310" as="sourcePoint" />
+            <mxPoint x="590" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZZz0zekjaiB-zJ9JQgs-3" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="311.5" as="sourcePoint" />
+            <mxPoint x="1030" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQGlsd-uDqvINiIxMkUt-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="hoL5aiDn9RFrbfBE8kIw-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="467.5" as="sourcePoint" />
+            <mxPoint x="708" y="458.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQGlsd-uDqvINiIxMkUt-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.017;entryY=0.184;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="hoL5aiDn9RFrbfBE8kIw-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="697.5" as="sourcePoint" />
+            <mxPoint x="710" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQGlsd-uDqvINiIxMkUt-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="hoL5aiDn9RFrbfBE8kIw-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="698" as="sourcePoint" />
+            <mxPoint x="957" y="649.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQGlsd-uDqvINiIxMkUt-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="hoL5aiDn9RFrbfBE8kIw-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="630" as="sourcePoint" />
+            <mxPoint x="707" y="581.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
