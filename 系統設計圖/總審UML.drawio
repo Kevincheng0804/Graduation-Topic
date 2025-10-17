@@ -1789,7 +1789,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1WTddvTI4zxdd5hMHbqM-1" value="接收" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+        <mxCell id="1WTddvTI4zxdd5hMHbqM-1" value="&lt;u&gt;:接收&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="40" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="75rgsDvsfWKjwdl5yc0T-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;繁忙疏於管理的人&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
@@ -1969,13 +1969,13 @@
         <mxCell id="duu_pHJ90ENFCVi8bAW7-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="240" width="5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NiZRcRPM_uWc4kwjzk6l-1" value="更新" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+        <mxCell id="NiZRcRPM_uWc4kwjzk6l-1" value="&lt;u&gt;:更新&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=45;" vertex="1" parent="1">
           <mxGeometry x="620" y="35" width="40" height="1265" as="geometry" />
         </mxCell>
         <mxCell id="NiZRcRPM_uWc4kwjzk6l-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="392" width="5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NiZRcRPM_uWc4kwjzk6l-5" value="請求" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+        <mxCell id="NiZRcRPM_uWc4kwjzk6l-5" value="&lt;u&gt;:請求&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
           <mxGeometry x="460" y="35" width="40" height="1255" as="geometry" />
         </mxCell>
         <mxCell id="NiZRcRPM_uWc4kwjzk6l-4" value="傳送請求更新畫面需求" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;exitX=0.047;exitY=0.595;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vuUdRwYdV2lnAJ7HJCvn-1" target="NiZRcRPM_uWc4kwjzk6l-5">
