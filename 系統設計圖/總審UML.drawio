@@ -1825,10 +1825,10 @@
             <mxPoint x="750" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5xxrb1cJkFq-XJ_8--1" value="更新行程資料(修正資料)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="Ew_UjihXaVuBMDbuMhZe-1" target="iO3gAxEPrl2tMWS7_Y6G-1" edge="1">
+        <mxCell id="7-t5xxrb1cJkFq-XJ_8--1" value="更新行程資料(修正資料)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="Ew_UjihXaVuBMDbuMhZe-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="210" as="sourcePoint" />
-            <mxPoint x="670" y="210" as="targetPoint" />
+            <mxPoint x="590.5" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5xxrb1cJkFq-XJ_8--7" value="更新修正資料" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="Ew_UjihXaVuBMDbuMhZe-1" edge="1">
@@ -1840,9 +1840,6 @@
             <mxPoint x="275" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UFl1HCTeKqB0ImpYwOSc-1" value="&lt;u&gt;Viewmodel&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="347" y="40" width="100" height="1050" as="geometry" />
-        </mxCell>
         <mxCell id="UFl1HCTeKqB0ImpYwOSc-2" value="傳送修改資料(uid,欲修改資料)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="236" y="258.5" as="sourcePoint" />
@@ -1851,9 +1848,6 @@
         </mxCell>
         <mxCell id="UFl1HCTeKqB0ImpYwOSc-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="395" y="258" width="5" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="iO3gAxEPrl2tMWS7_Y6G-1" value="&lt;u&gt;日程model&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="511" y="40" width="100" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="iO3gAxEPrl2tMWS7_Y6G-2" value="請求修改資料(uid,欲修改資料)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1887,6 +1881,9 @@
             <mxPoint x="397.5" y="450" as="sourcePoint" />
             <mxPoint x="238.5" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1WTddvTI4zxdd5hMHbqM-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="378" y="40" width="40" height="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
